@@ -440,7 +440,7 @@ int basicMathFunctions(tfctx *ctx, char *name) {
     if (b == NULL) return TF_ERR;
     tfobj *a = ctxStackPop(ctx,TFOBJ_TYPE_INT);
     if (a == NULL) {
-        ctxStackPush(ctx,a);
+        ctxStackPush(ctx,b);
         return TF_ERR;
     }
 
